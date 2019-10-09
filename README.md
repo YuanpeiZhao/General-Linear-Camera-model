@@ -1,5 +1,5 @@
 # General-Linear-Camera-model
-CS 501 Assignment 1 - This project implement a General Linear Camera (GLC) model with freeglut
+CS 535 Assignment 1 - This project implement a General Linear Camera (GLC) model with freeglut
 
 ## Object
 This program defined hitable virtual class which derives two classes, sphere and triangleMesh. This two classes are defined in sphere.h and triangleMesh.h.
